@@ -30,3 +30,7 @@ Generate a story from an image.
 ## Demo
 
 [img2story](https://img2story.com)
+
+![CleanShot 2023-05-01 at 16 51 24](https://user-images.githubusercontent.com/13342175/235476220-175c82fb-5c31-4e6f-97dd-11a0adcfaa54.png)
+
+![CleanShot 2023-05-01 at 16 52 49](https://user-images.githubusercontent.com/13342175/235476254-662be50c-99c6-447a-ae59-01a312a6777e.png)
