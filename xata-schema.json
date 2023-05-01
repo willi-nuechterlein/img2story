@@ -1,0 +1,21 @@
+{
+  "tables": [
+    {
+      "name": "dialogues",
+      "columns": [
+        { "name": "user_id", "type": "string" },
+        { "name": "speaker", "type": "multiple" },
+        { "name": "text", "type": "string" },
+        { "name": "created_at", "type": "datetime" },
+        { "name": "is_question", "type": "bool" },
+        {
+          "name": "embedding",
+          "type": "vector",
+          "vector": {
+            "dimension": 1536
+          }
+        }
+      ]
+    }
+  ]
+}

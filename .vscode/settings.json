@@ -1,0 +1,5 @@
+{
+    "typescript.preferences.importModuleSpecifier": "non-relative",
+    "emmet.showAbbreviationSuggestions": false,
+    "workbench.colorCustomizations": {}
+}
